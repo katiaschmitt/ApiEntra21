@@ -1,4 +1,6 @@
-﻿namespace Modelo.Domain
+﻿using System.Text.Json.Serialization;
+
+namespace Modelo.Domain
 {
     public class Aluno
     {
